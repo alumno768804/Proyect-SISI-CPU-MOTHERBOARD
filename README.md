@@ -148,12 +148,12 @@ An air cooler uses a metal heatsink and fans to move heat away from the CPU. Bef
 
 ## References
 
-- AMD — Ryzen 5 9600X specifications: https://www.amd.com/es/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html (accessed 29 October 2026).
-- Intel — Core Ultra 5 245K specifications: https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html (accessed 29 October 2026).
-- MSI — MAG B650 TOMAHAWK WIFI specifications: https://es.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI/Specification (accessed 29 October 2026).
-- MSI — MAG Z890 TOMAHAWK WIFI: https://es-store.msi.com/products/mag-z890-tomahawk-wifi-placas-base (accessed 29 October 2026).
-- AMD — CPU product and support information: https://www.amd.com/ (accessed 29 October 2026).
-- Intel — Processor information: https://www.intel.com/ (accessed 29 October 2026).
+- AMD — Ryzen 5 9600X specifications: https://www.amd.com/es/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html .
+- Intel — Core Ultra 5 245K specifications: https://www.intel.com/content/www/us/en/products/sku/241067/intel-core-ultra-5-processor-245k-24m-cache-up-to-5-20-ghz/specifications.html .
+- MSI — MAG B650 TOMAHAWK WIFI specifications: https://es.msi.com/Motherboard/MAG-B650-TOMAHAWK-WIFI/Specification .
+- MSI — MAG Z890 TOMAHAWK WIFI: https://es-store.msi.com/products/mag-z890-tomahawk-wifi-placas-base .
+- AMD — CPU product and support information: https://www.amd.com/ .
+- Intel — Processor information: https://www.intel.com/ .
 
 ## Kahoot Quiz
 
